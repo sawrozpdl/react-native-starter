@@ -1,0 +1,16 @@
+{
+    "hello_world": "Hola mundo",
+    "unknown_err_occurred": "Ocurrió un error desconocido",
+    "welcome": "Bienvenido",
+    "settings": "Configuración",
+    "home": "Inicio",
+    "login": "Iniciar sesión",
+    "logout": "Cerrar sesión",
+    "sign_in": "Iniciar sesión",
+    "log_out": "Cerrar sesión",
+    "pages": "Paginas",
+    "dark_theme": "Tema oscuro",
+    "controls": "Ajustes",
+    "locale": "Idioma",
+    "selected": "Escogido"
+}

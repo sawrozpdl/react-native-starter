@@ -1,0 +1,16 @@
+{
+    "hello_world": "Hello World",
+    "unknown_err_occurred": "An unknown error occurred",
+    "welcome": "Welcome",
+    "settings": "Settings",
+    "home": "Home",
+    "login": "Login",
+    "logout": "Logout",
+    "sign_in": "Sign in",
+    "log_out": "Log out",
+    "pages": "Pages",
+    "dark_theme": "Dark theme",
+    "controls": "Controls",
+    "locale": "Locale",
+    "selected": "Selected"
+}
